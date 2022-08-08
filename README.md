@@ -1,4 +1,4 @@
-<div background="white"><p align="center"><a href="https://sourrinn.netlify.app" target="_blank"><img width="25%" src="https://i.ibb.co/k13Wb9c/20220719-203737.png" alt="20220719-203737" border="0"></a></div>
+<div background="white"><p align="center"><a href="https://sourrinn.netlify.app" target="_blank"><img width="25%" src="https://i.ibb.co/VqQQRDm/20220808-220135.png" alt="20220719-203737" border="0"></a></div>
 <p align="center" font-size="10px">Hello! Nice to meet you...</p>
 <hr>
 <p align="center" font-size="10px">✨ You Inspire Me ✨</p>
