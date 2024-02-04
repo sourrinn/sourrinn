@@ -9,6 +9,7 @@
   
 ## Languages, Libraries and Frameworks 🛠
 <p align="left"> 
+<img src="https://img.shields.io/badge/java-0078D6?style=for-the-badge&logo=java&logoColor=ffdd54"/>
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
 <a href="https://en.wikipedia.org/wiki/HTML" target="_blank"><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
