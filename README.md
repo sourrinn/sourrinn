@@ -2,7 +2,7 @@
 <p align="center" font-size="10px">Hello! Nice to meet you...</p>
 <hr>
 <p align="center" font-size="10px">✨ You Inspire Me ✨</p>
-<div display="flex" flex-direction="row" align="center" justify-content="center"><p>💻 I'm</p><img src="https://readme-typing-svg.herokuapp.com?size=35&pause=500&center=true&width=800&lines=Sourin+Biswas;Computer+Science+Engineer;A+Tech+-+Enthusiast;MERN+Stack+Web+Developer;Pseudo+Python+Developer;Media+Productions+Consultant;Influential+Content+Writer+%26+Editor;A+Freelancer" alt="My Work Roles" /></div>
+<div display="flex" flex-direction="row" align="center" justify-content="center"><p>💻 I'm</p><img src="https://readme-typing-svg.herokuapp.com?size=35&pause=500&center=true&width=800&lines=Sourin+Biswas;Computer+Science+Researcher;A+Tech+-+Enthusiast;Developer; Automation Tester;Cloud+Engineer;AI+Model+Coder;Media+Productions+Consultant;Influential+Content+Writer+%26+Editor;A+Freelancer" alt="My Work Roles" /></div>
 
 ## 📫 How to reach me?
 <p >Just mail me at sourinbiswas002@gmail.com</p>
