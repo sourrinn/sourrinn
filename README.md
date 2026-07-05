@@ -1,399 +1,141 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=120&section=header&text=&fontSize=0" width="100%" />
-
- 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,20:7c2d12,50:dc2626,80:f59e0b,100:ffd700&height=180&section=header&text=&fontSize=0" width="100%" />
 
 <div align="center">
 
- 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1200&color=FFD700&center=true&vCenter=true&repeat=true&width=900&height=60&lines=Sourin+Biswas;Building+the+future%2C+one+commit+at+a+time." alt="Typing SVG" />
 
-<img src="https://img.shields.io/badge/⬡-HUD_ONLINE-58a6ff?style=flat-square&labelColor=0d1117" />
+<br/>
 
-<img src="https://img.shields.io/badge/⬡-ALL_SYSTEMS_NOMINAL-238636?style=flat-square&labelColor=0d1117" />
-
-<img src="https://img.shields.io/badge/⬡-UPLINK_ACTIVE-8b949e?style=flat-square&labelColor=0d1117" />
-
- 
+<img src="https://img.shields.io/badge/Software_Engineer-ffd700?style=for-the-badge&logoColor=0d1117&labelColor=0d1117&color=ffd700" />
+<img src="https://img.shields.io/badge/Researcher-dc2626?style=for-the-badge&logoColor=0d1117&labelColor=0d1117&color=dc2626" />
+<img src="https://img.shields.io/badge/Systems_Architect-f59e0b?style=for-the-badge&logoColor=0d1117&labelColor=0d1117&color=f59e0b" />
 
 <br/><br/>
 
- 
-
-# ◈ SOURIN BISWAS
-
- 
-
-**`Software Engineer`** · **`Researcher`** · **`Systems Architect`**
-
- 
-
-<br/>
-
- 
-
-[![Email](https://img.shields.io/badge/COMMS-sourinbiswas002@gmail.com-58a6ff?style=for-the-badge&logo=gmail&logoColor=58a6ff&labelColor=0d1117)](mailto:sourinbiswas002@gmail.com)
-
-[![GitHub](https://img.shields.io/badge/NODE-sourrinn-58a6ff?style=for-the-badge&logo=github&logoColor=58a6ff&labelColor=0d1117)](https://github.com/sourrinn)
-
- 
-
 </div>
 
- 
-
 <br/>
 
- 
-
----
-
- 
-
-<!-- ═══════════════════ OPERATOR PROFILE ═══════════════════ -->
-
- 
+<!-- ══════════════════════════ ABOUT ══════════════════════════ -->
 
 <div align="center">
 
- 
-
-### ◈ OPERATOR PROFILE
-
- 
+## About
 
 </div>
 
- 
+<table align="center">
+<tr>
+<td>
 
-<br/>
-
- 
-
-<div align="center">
-
-<a href="#">
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=sourrinn&repo=sourrinn&theme=transparent&hide_border=true" width="0" height="0" alt="" />
-
-</a>
-
-</div>
-
- 
-
-<table align="center" style="border: none; border-collapse: collapse;">
-
-<tr style="border: none;">
-
-<td width="50%" valign="top" style="border: none;">
-
- 
-
-```ini
-
-[IDENTITY]
-
-Callsign    = Sourin Biswas
-
-Clearance   = Engineering Lead
-
-Affiliation = Enterprise Software & Research
-
- 
-
-[PRIMARY_DIRECTIVES]
-
-01 = Test Architecture & Automation at Scale
-
-02 = Cloud-Native Distributed Systems
-
-03 = AI/ML Engineering & Applied Research
-
-04 = Full-Stack Platform Development
-
+```yaml
+name: Sourin Biswas
+location: India
+focus: Enterprise Software & Applied Research
+currently_building: AI-powered platforms & distributed systems
+open_to: Research collaborations & engineering challenges
+fun_fact: I ship faster than most CI pipelines
 ```
 
- 
-
 </td>
-
-<td width="50%" valign="top" style="border: none;">
-
- 
-
-```ini
-
-[SYSTEM_STATUS]
-
-Focus       = ████████████████████ 100%
-
-Precision   = ███████████████████░  95%
-
-Output      = ██████████████████░░  90%
-
-Innovation  = ████████████████████ 100%
-
- 
-
-[UPTIME]
-
-Mode        = PRODUCTION
-
-Availability= ALWAYS SHIPPING
-
-```
-
- 
-
-</td>
-
 </tr>
-
 </table>
 
- 
-
 <br/>
 
- 
-
----
-
- 
-
-<!-- ═══════════════════ ARSENAL ═══════════════════ -->
-
- 
+<!-- ══════════════════════════ TECH STACK ══════════════════════════ -->
 
 <div align="center">
 
- 
-
-### ◈ ARSENAL
-
- 
+## Tech Stack
 
 <br/>
 
- 
+<table>
+<tr>
+<td align="center" width="50%">
 
-<img src="https://skillicons.dev/icons?i=ts,python,java,js,postgres&theme=dark&perline=5" alt="Languages" />
+**Languages**
 
- 
+<img src="https://skillicons.dev/icons?i=ts,python,java,cs,js,go,rust&theme=dark&perline=7" />
 
-<br/>
+</td>
+<td align="center" width="50%">
 
- 
+**Frameworks & Runtimes**
 
-`LANGUAGES`
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,fastapi,prisma&theme=dark&perline=6" />
 
- 
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
 
-<br/><br/>
+**Testing & QE**
 
- 
+<img src="https://skillicons.dev/icons?i=vitest,selenium,gherkin&theme=dark&perline=3" />
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express&theme=dark&perline=4" alt="Frameworks" />
+</td>
+<td align="center" width="50%">
 
- 
+**Cloud & Infrastructure**
 
-<br/>
+<img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,terraform,redis&theme=dark&perline=6" />
 
- 
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
 
-`FRAMEWORKS`
+**Data & AI**
 
- 
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,tensorflow&theme=dark&perline=3" />
 
-<br/><br/>
+</td>
+<td align="center" width="50%">
 
- 
+**Tooling & Environment**
 
-<img src="https://skillicons.dev/icons?i=vitest,selenium,gherkin&theme=dark&perline=3" alt="Testing" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,neovim,figma,pycharm,idea,visualstudio&theme=dark&perline=9" />
 
- 
-
-<br/>
-
- 
-
-`TESTING & QE`
-
- 
-
-<br/><br/>
-
- 
-
-<img src="https://skillicons.dev/icons?i=aws,azure,mongodb,docker&theme=dark&perline=4" alt="Cloud" />
-
- 
-
-<br/>
-
- 
-
-`CLOUD & INFRA`
-
- 
-
-<br/><br/>
-
- 
-
-<img src="https://skillicons.dev/icons?i=git,vscode,github,linux&theme=dark&perline=4" alt="Tooling" />
-
- 
-
-<br/>
-
- 
-
-`TOOLING`
-
- 
+</td>
+</tr>
+</table>
 
 </div>
 
- 
-
 <br/>
 
- 
-
----
-
- 
-
-<!-- ═══════════════════ TELEMETRY ═══════════════════ -->
-
- 
+<!-- ══════════════════════════ CONNECT ══════════════════════════ -->
 
 <div align="center">
 
- 
-
-### ◈ TELEMETRY
-
- 
+## Connect
 
 <br/>
 
- 
-
-<picture>
-
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sourrinn&theme=github_dark" />
-
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sourrinn&theme=github_dark" alt="Profile Details" width="95%" />
-
-</picture>
-
- 
-
-<br/><br/>
-
- 
-
-<picture>
-
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sourrinn&theme=github_dark" />
-
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sourrinn&theme=github_dark" alt="Stats" height="165" />
-
-</picture>
-
-<picture>
-
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sourrinn&theme=github_dark&utcOffset=5.5" />
-
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sourrinn&theme=github_dark&utcOffset=5.5" alt="Productive Time" height="165" />
-
-</picture>
-
- 
-
-<br/><br/>
-
- 
-
-<picture>
-
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sourrinn&theme=github_dark" />
-
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sourrinn&theme=github_dark" alt="Repos Per Language" height="165" />
-
-</picture>
-
-<picture>
-
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sourrinn&theme=github_dark" />
-
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sourrinn&theme=github_dark" alt="Most Commit Language" height="165" />
-
-</picture>
-
- 
+[![Email](https://img.shields.io/badge/Email-sourinbiswas002@gmail.com-ffd700?style=for-the-badge&logo=gmail&logoColor=ffd700&labelColor=0d1117)](mailto:sourinbiswas002@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-sourrinn-dc2626?style=for-the-badge&logo=github&logoColor=dc2626&labelColor=0d1117)](https://github.com/sourrinn)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-f59e0b?style=for-the-badge&logo=linkedin&logoColor=f59e0b&labelColor=0d1117)](https://linkedin.com/in/sourrinn)
 
 </div>
 
- 
+<br/><br/>
 
-<br/>
-
- 
-
----
-
- 
-
-<!-- ═══════════════════ FOOTER ═══════════════════ -->
-
- 
-
-<br/>
-
- 
+<!-- ══════════════════════════ FOOTER ══════════════════════════ -->
 
 <div align="center">
-
- 
-
-<img src="https://img.shields.io/badge/◈_MISSION-Open_to_research_collaborations_&_engineering_challenges-0d1117?style=flat-square&labelColor=161b22&color=0d1117" />
-
- 
-
-<br/><br/>
-
- 
-
-<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fsourrinn&query=%24.public_repos&label=REPOSITORIES&style=flat-square&labelColor=0d1117&color=58a6ff" alt="Repos" />
-
-<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fsourrinn&query=%24.followers&label=FOLLOWERS&style=flat-square&labelColor=0d1117&color=58a6ff" alt="Followers" />
-
- 
-
-<br/><br/>
-
- 
 
 <sub>
 
- 
-
-`[ HUD v2.0 // LAST SYNC: REALTIME // ALL SYSTEMS OPERATIONAL ]`
-
- 
+```
+⟪ Crafted with precision · Powered by obsession · Deployed with confidence ⟫
+```
 
 </sub>
 
- 
-
 </div>
-
- 
 
 <br/>
 
- 
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=80&section=footer&text=&fontSize=0" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffd700,20:f59e0b,50:dc2626,80:7c2d12,100:0d1117&height=120&section=footer&text=&fontSize=0" width="100%" />
